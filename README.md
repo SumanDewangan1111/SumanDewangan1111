@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Suman Dewangan
 
-<!--
-**SumanDewangan1111/SumanDewangan1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about software development and building technology that addresses real-world environmental challenges. I enjoy learning new technologies, improving my technical skills, and creating meaningful projects.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Air Quality Index (AQI) Monitoring System
+- Solar Recycling Process
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- STATA
+- Python
+- Git
+- GitHub
+
+## Achievement
+- My Air Quality Index (AQI) project was featured in the Dainik Bhaskar newspaper.
+
+## Currently Learning
+- Data Analysis
+- Version Control with Git & GitHub
+- Building real-world software projects
+
+## Connect With Me
+- LinkedIn: Suman Dewangan
+- Email: (sumandewangan535@gmail.com)
+connect with me
+https://www.linkedin.com/in/suman-dewangann-5b07623ba?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Thank you for visiting my GitHub profile. Feel free to explore my projects and connect with me.
